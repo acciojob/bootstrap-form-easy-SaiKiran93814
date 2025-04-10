@@ -1,5 +1,5 @@
 //your code here
-<script>
+
   // Bootstrap form validation
   (() => {
     'use strict';
@@ -14,4 +14,3 @@
       }, false);
     });
   })();
-</script>
